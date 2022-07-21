@@ -1,7 +1,3 @@
-﻿--Nguyễn Thị Ngọc Hải
---20127490
---20CLC09
-
 --a. In ra câu chào “Hello World !!!”.
 create proc sp_HelloWorld
 as
