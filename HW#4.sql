@@ -1,7 +1,3 @@
-﻿--Họ và tên: Nguyễn Thị Ngọc Hải
---MSSV: 20127490
---Lớp: 20CLC09
-
 --Viết các câu truy vấn	Q27 -> Q34 trong bài tập Quản lý đề tài.
 --Q27: Cho biết	số lượng giáo viên và tổng lương của họ.
 select count(*) as 'Số lượng giáo viên', sum(LUONG) as 'Tổng lương'
