@@ -1,7 +1,3 @@
-﻿--20127490
---Nguyen Thi Ngoc Hai
---20CLC09
-
 create database QLMayTinh
 
 go
