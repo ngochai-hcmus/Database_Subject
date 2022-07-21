@@ -1,7 +1,3 @@
-﻿--Nguyễn Thị Ngọc Hải
---20127490
---20CLC09
-
 --d. In ra tổng 3 số (Sử dụng lại stored procedure Tính tổng 2 số)
 create proc sp_TinhTong2So
 	@a int,
