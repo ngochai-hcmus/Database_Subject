@@ -1,7 +1,3 @@
-﻿--Nguyễn Thị Ngọc Hải
---20127490
---20CLC09
-
 --Q35. Cho biết mức lương cao nhất của các giảng viên.
 select distinct LUONG as N'Mức lương cao nhất của GV'
 from GIAOVIEN
