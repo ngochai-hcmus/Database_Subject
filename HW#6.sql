@@ -1,7 +1,3 @@
-﻿--Nguyễn Thị Ngọc Hải
---20127490
---20CLC09
-
 --Q40. Cho biết tên giáo viên và tên khoa của giáo viên có lương cao nhất.
 select HOTEN, TENKHOA
 from (GIAOVIEN GV join BOMON BM on GV.MABM = BM.MABM) join KHOA K on BM.MAKHOA = K.MAKHOA
